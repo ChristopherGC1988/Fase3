@@ -16,7 +16,7 @@ Al conocer el problema, se solicita a la empresa la autorización para realizar 
 ***
 ![image](https://github.com/ChristopherGC1988/Fase3Ejecucion/assets/141608209/7fa92b0d-ea49-4a34-b326-e45e29e6dda7)
 ## Descripción sus componentes
-•	Usuario: El usuario debe ingresar los datos solicitados para darse de alta y permitir realizar las operaciones de consulta de información.
-•	Producto: Debe tener información del ID, color y cantidad ingresada, para eliminar un producto solo se necesita el ID.
-•	Base de datos: Utilizaremos una MySQL para ingresar la información obtenida del usuario y producto para ser almacenados. 
-•	Interfaz: Utilizaremos una herramienta de Figma para el diseño.
+>	Usuario: El usuario debe ingresar los datos solicitados para darse de alta y permitir realizar las operaciones de consulta de información.
+>	Producto: Debe tener información del ID, color y cantidad ingresada, para eliminar un producto solo se necesita el ID.
+>	Base de datos: Utilizaremos una MySQL para ingresar la información obtenida del usuario y producto para ser almacenados. 
+>	Interfaz: Utilizaremos una herramienta de Figma para el diseño.
