@@ -1,6 +1,8 @@
 # Programa de control de inventario
 Taller de productividad basada en herramientas tecnológicas Fase IV : Resultados
 ***
+## Tabla de contenidos
+<a name="Descripción-del-rograma"></a>
 ## Descripción del programa
 Es un sistema que permite controlar en el invetario la entrada y salida de mercancia de la fabrica T-SER-MEX
 ## Problema identificado
@@ -16,8 +18,8 @@ Al conocer el problema, se solicita a la empresa la autorización para realizar 
 ***
 ![image](https://github.com/ChristopherGC1988/Fase3Ejecucion/assets/141608209/7fa92b0d-ea49-4a34-b326-e45e29e6dda7)
 ## Descripción sus componentes
-lista
 1.	Usuario: El usuario debe ingresar los datos solicitados para darse de alta y permitir realizar las operaciones de consulta de información.
 2.	Producto: Debe tener información del ID, color y cantidad ingresada, para eliminar un producto solo se necesita el ID.
 3.	Base de datos: Utilizaremos una MySQL para ingresar la información obtenida del usuario y producto para ser almacenados. 
 4.	Interfaz: Utilizaremos una herramienta de Figma para el diseño.
+
