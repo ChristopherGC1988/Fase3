@@ -2,19 +2,10 @@
 Taller de productividad basada en herramientas tecnológicas Fase IV : Resultados
 ***
 ## Tabla de contenido
-<a name="Descripción-del-rograma"></a>
-#### Descripción del programa
-<a name="Problema-identificado"></a>
-#### Problema identificado
-<a name="Solución "></a>
-#### Solución 
-<a name="Arquitectura"></a>
-#### Arquitectura 
-<a name="Descripción-sus-componentes"></a>
-#### Descripción sus componente
-<a name="Datos-de-la-empresa"></a>
-#### Datos de la empresa
+#### README
+[Descripción del programa](#Descripción-del-rograma)
 ***
+<a name="Descripción-del-rograma"></a>
 ## Descripción del programa
 Es un sistema que permite controlar en el inventario la entrada y salida de mercancía de la fabrica T-SER-MEX
 ## Problema identificado
