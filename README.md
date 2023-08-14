@@ -27,7 +27,7 @@ Al conocer el problema, se solicita a la empresa la autorización para realizar 
 ***
 ![image](https://github.com/ChristopherGC1988/Fase3Ejecucion/assets/141608209/76aba1c2-0791-4ec0-b21b-feb2f97d3a88)
 ## Arquitectura
-El usuario solicita un Request que sera enviado al servidor de aplicacion mediante el uso de Apache Tomcat, donde se conectara con la base de datos MySQL para solicitar la opción, la Base de datos MySQL almacenara la información y respondera al usuario.
+El usuario solicita un Request que será enviado al servidor de aplicación mediante el uso de Apache Tomcat, donde se conectara con la base de datos MySQL para solicitar la opción, la Base de datos MySQL almacenara la información y responder al usuario.
 ***
 ![image](https://github.com/ChristopherGC1988/Fase3Ejecucion/assets/141608209/7fa92b0d-ea49-4a34-b326-e45e29e6dda7)
 ## Descripción sus componentes
@@ -35,7 +35,7 @@ El usuario solicita un Request que sera enviado al servidor de aplicacion median
 2.	Producto: Debe tener información del ID, color y cantidad ingresada, para eliminar un producto solo se necesita el ID.
 3.	Base de datos: Utilizaremos una MySQL para ingresar la información obtenida del usuario y producto para ser almacenados. 
 4.	Interfaz: Utilizaremos una herramienta de Figma para el diseño.
-## DATOS DE LA EMPRESA
+## Datos de la empresa
 Nombre de la empresa: T.SER-MEX S.A. DE C.V.
 Dirección: Calle Buenavista Esq. Fresno N° 11, Acolman de Nezahualcóyotl, Estado de México, CP: 55880.
 Teléfono: 594 957 0650
