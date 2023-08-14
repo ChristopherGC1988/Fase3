@@ -16,7 +16,7 @@ Taller de productividad basada en herramientas tecnológicas Fase IV : Resultado
 #### Datos de la empresa
 ***
 ## Descripción del programa
-Es un sistema que permite controlar en el invetario la entrada y salida de mercancia de la fabrica T-SER-MEX
+Es un sistema que permite controlar en el inventario la entrada y salida de mercancía de la fabrica T-SER-MEX
 ## Problema identificado
 La empresa solo posee la información de los productos en listas o notas de ventas (Salidas) y compras (Entradas), en carpetas y almacenadas físicamente para su consulta, en el cual no tiene un registro en el momento sobre las cantidades exactas de hilos con los que cuenta la empresa, que colores tiene en mayor o menor existencia.
 ***
