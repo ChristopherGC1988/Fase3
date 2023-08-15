@@ -3,7 +3,7 @@ Taller de productividad basada en herramientas tecnológicas Fase IV : Resultado
 ***
 ## Tabla de contenido
 #### README
-[Descripción del programa](#Descripción-del-rograma)
+[Descripción del programa](#Descripción-del-programa)
 
 [Problema identificado](#Problema-identificado)
 
@@ -17,9 +17,9 @@ Taller de productividad basada en herramientas tecnológicas Fase IV : Resultado
 ***
 ### WIKI
 <a name="Home"></a>
-[HOME](https://github.com/ChristopherGC1988/Fase3Ejecucion/wiki)
+[Home](https://github.com/ChristopherGC1988/Fase3Ejecucion/wiki)
 ***
-<a name="Descripción-del-rograma"></a>
+<a name="Descripción-del-programa"></a>
 ## Descripción del programa
 Es un sistema que permite controlar en el inventario la entrada y salida de mercancía de la fabrica T-SER-MEX
 <a name="Problema-identificado"></a>
